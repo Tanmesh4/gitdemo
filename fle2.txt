@@ -1,1 +1,3 @@
 welcome to 2nd file
+
+conflict on local and remote
