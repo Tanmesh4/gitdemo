@@ -7,4 +7,6 @@ bug 1 fix
 
 new fixing at master for 3 way merge
 
+chage made for rebase
+
 
